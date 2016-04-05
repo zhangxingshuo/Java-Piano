@@ -1,2 +1,2 @@
 # Java-Piano
-Simple keyboard piano
+Simple keyboard piano with basic GUI
